@@ -1,1 +1,1 @@
-2016年6月21日开始学习python
+2016.6.21 my first day to learn python
